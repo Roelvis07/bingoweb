@@ -1,0 +1,5 @@
+las dos carpetas:
+  -nodejs-express-sequelize-mysql (para el backend)
+  -react-crud (para el fronted)
+
+van juntas
